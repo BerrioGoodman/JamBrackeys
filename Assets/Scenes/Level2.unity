@@ -936,6 +936,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: MovingPlatform
       objectReference: {fileID: 0}
+    - target: {fileID: 2355937621386936041, guid: beefe01e15664ed498c3a890b6fd7da1, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355937621386936041, guid: beefe01e15664ed498c3a890b6fd7da1, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8461985529805814100, guid: beefe01e15664ed498c3a890b6fd7da1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5300999491847649650, guid: e5bf8bbea3a7fab449cb6fdfa7cc2f25, type: 3}
     - target: {fileID: 9191852744144586937, guid: beefe01e15664ed498c3a890b6fd7da1, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5
